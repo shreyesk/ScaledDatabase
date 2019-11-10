@@ -1,0 +1,6 @@
+1
+school_supplies
+class	notebook_type writing_utensils extra
+2
+orchestra	binder pencil_and_highlighter violin
+statistics	none pens_and_pencils none
